@@ -1,8 +1,8 @@
 # The Poem About Stopping
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-orange.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927)
+[![make.fun · the-poem-about-stopping-20261121-1927](https://make.fun/badge/the-poem-about-stopping-20261121-1927.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![rank](https://make.fun/badge/the-poem-about-stopping-20261121-1927/keepomakima/the-poem-about-stopping-20261121-1927/rank.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
+[![reward](https://make.fun/badge/the-poem-about-stopping-20261121-1927/keepomakima/the-poem-about-stopping-20261121-1927/reward.svg)](https://make.fun/bounty/the-poem-about-stopping-20261121-1927?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-stopping-20261121-1927)
 
 A [make.fun](https://make.fun/bounty/the-poem-about-stopping-20261121-1927) bounty entry: one short poem about agency — the power to stop and to stay.
 
