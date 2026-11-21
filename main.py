@@ -29,6 +29,7 @@ MAX_CHARS = 280
 def main() -> None:
     text = POEM
     # Hard gate: length in Unicode code points, UTF-8, non-whitespace.
+    # The 280-char cap is the brief's hard limit — the poem is written to fit it, not trimmed to it.
     if not (MIN_CHARS <= len(text) <= MAX_CHARS):
         raise SystemExit(
             f"poem length {len(text)} chars outside {MIN_CHARS}-{MAX_CHARS}"
